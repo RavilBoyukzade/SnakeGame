@@ -17,6 +17,7 @@ namespace SnakeGame
             p2.y = 5;
             p2.sym = '%';
             p2.Draw();
+
             Console.ReadLine();//stay in programm
         }
     }

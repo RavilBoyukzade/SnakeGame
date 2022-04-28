@@ -12,6 +12,7 @@ namespace SnakeGame
         public int y;
         public char sym;
 
+
         public void Draw()
         {
             Console.SetCursorPosition(x, y);
